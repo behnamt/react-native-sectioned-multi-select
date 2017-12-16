@@ -210,8 +210,10 @@ These are the styles you can change:
 	`center`  
 	`separator`  
 	`subSeparator`  
-	`chipContainer`  
-	`chipText`  
+	`singleChipContainer`
+	`chipContainer`
+	`chipWrapper`
+	`chipText`
 	`chipIcon`  
 	`searchTextInput`  
 	`scrollView`  
